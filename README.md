@@ -11,6 +11,7 @@ This comprehensive SQL practice activity will allow you to master **Data Definit
 - Work with **joins, aggregations, and subqueries**
 - Understand **database relationships and constraints**
 - Develop **complex query-solving skills**
+- Develop **complex query-solving skills**
 
 ## Database Schema
 
