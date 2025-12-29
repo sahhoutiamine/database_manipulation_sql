@@ -9,7 +9,6 @@ This comprehensive SQL practice activity will allow you to master **Data Definit
 - Practice **INSERT, UPDATE, DELETE** operations
 - Master **SELECT queries** with various clauses
 - Work with **joins, aggregations, and subqueries**
-- Work with **joins, aggregations, and subqueries**
 - Understand **database relationships and constraints**
 - Develop **complex query-solving skills**
 
